@@ -1,3 +1,5 @@
+![Banner](LunaGhost.png)
+
 # 💫 About Me:
 👨‍💻 Estoy aprendiendo sobre desarrollo web y disfruto crear videojuegos.<br><br>🖥️ Tengo experiencia en el desarrollo de videojuegos utilizando Unity y habilidades en diseño gráfico y narrativa.<br><br>🏆 Cuento con certificaciones en Fundamentos de Scrum, demostrando mi competencia en la gestión de proyectos.<br><br>👻 Me apasiona contribuir al emocionante mundo del desarrollo web y los videojuegos. Siempre estoy en búsqueda de nuevos desafíos para convertir ideas imaginativas en realidades.
 
